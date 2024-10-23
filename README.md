@@ -22,9 +22,8 @@ Weather App adalah aplikasi Android sederhana yang menampilkan informasi cuaca u
 
 - Android Studio
 - Kotlin
-- Minimum SDK: [versi]
+- Minimum SDK: 30
 - OpenWeatherMap API Key
-- Internet Permission
 
 ## Instalasi
 
@@ -87,15 +86,14 @@ Parameter yang digunakan:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## License
 
-[Jenis lisensi yang digunakan]
+## Kelompok 11
 
-## Kontak
+Gani Samanta Capah - 1122091000065
+Amir winanda - 11220910000052
+Ahmad Rafiadly Arliansyah = 1120910000054
 
-Nama Anda - [@social_media](https://twitter.com/username)
-
-Project Link: [https://github.com/username/repo_name](https://github.com/username/repo_name)
+Project Link: [https://github.com/username/repo_name](https://github.com/Ganicapah/WeatherApp)
 
 ## Acknowledgments
 
