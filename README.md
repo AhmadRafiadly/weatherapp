@@ -29,7 +29,7 @@ Weather App adalah aplikasi Android sederhana yang menampilkan informasi cuaca u
 
 1. Clone repository ini
 ```bash
-git clone [URL_repository]
+git clone https://github.com/Ganicapah/WeatherApp.git
 ```
 
 2. Buka project di Android Studio
@@ -89,11 +89,11 @@ Parameter yang digunakan:
 
 ## Kelompok 11
 
-Gani Samanta Capah - 1122091000065
-Amir winanda - 11220910000052
-Ahmad Rafiadly Arliansyah = 1120910000054
+1. Gani Samanta Capah - 1122091000065
+2. Amir winanda - 11220910000052
+3. Ahmad Rafiadly Arliansyah - 1120910000054
 
-Project Link: [https://github.com/username/repo_name](https://github.com/Ganicapah/WeatherApp)
+Project Link: [https://github.com/GaniCapah/WeatherApp](https://github.com/Ganicapah/WeatherApp)
 
 ## Acknowledgments
 
