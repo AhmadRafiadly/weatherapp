@@ -2,7 +2,7 @@
 
 1. Gani Samanta Capah - 1122091000065
 2. Amir winanda - 11220910000052
-3. Ahmad Rafiadly Arliansyah - 1120910000054
+3. Ahmad Rafiadly Arlisyah - 1120910000054
 
 Project Link: [https://github.com/AhmadRafiadly/weatherapp](https://github.com/AhmadRafiadly/weatherapp)
 
