@@ -94,6 +94,20 @@ Parameter yang digunakan:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
+## Unified Modeling Language
+
+1. Activity Diagram
+<img width="384" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/fa4772d5-f7c5-4d78-bff3-aee7549e99b1">
+
+2. State Diagram
+<img width="290" alt="STATE DIAGRAM" src="https://github.com/user-attachments/assets/31b235d1-cc22-4c25-b931-7fb4fbd5562e">
+
+3. Sequence Diagram
+<img width="334" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/18ff2059-732b-4fde-b485-246a8494982f">
+
+4. Use Case Diagram
+<img width="530" alt="<img width="530" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/0ac1713e-6aa9-4061-a578-f517b5328f42">
+
 
 ## Acknowledgments
 
