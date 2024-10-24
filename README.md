@@ -1,3 +1,11 @@
+## Kelompok 11
+
+1. Gani Samanta Capah - 1122091000065
+2. Amir winanda - 11220910000052
+3. Ahmad Rafiadly Arliansyah - 1120910000054
+
+Project Link: [https://github.com/GaniCapah/WeatherApp](https://github.com/Ganicapah/WeatherApp)
+
 # Weather App
 
 Weather App adalah aplikasi Android sederhana yang menampilkan informasi cuaca untuk kota yang dipilih menggunakan OpenWeatherMap API. Aplikasi ini dibangun menggunakan Kotlin dan menampilkan berbagai informasi cuaca seperti suhu, kelembaban, tekanan udara, dan lainnya.
@@ -86,14 +94,6 @@ Parameter yang digunakan:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-
-## Kelompok 11
-
-1. Gani Samanta Capah - 1122091000065
-2. Amir winanda - 11220910000052
-3. Ahmad Rafiadly Arliansyah - 1120910000054
-
-Project Link: [https://github.com/GaniCapah/WeatherApp](https://github.com/Ganicapah/WeatherApp)
 
 ## Acknowledgments
 
