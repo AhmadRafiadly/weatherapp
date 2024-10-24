@@ -6,9 +6,20 @@
 
 Project Link: [https://github.com/GaniCapah/WeatherApp](https://github.com/Ganicapah/WeatherApp)
 
+
+
 # Weather App
 
 Weather App adalah aplikasi Android sederhana yang menampilkan informasi cuaca untuk kota yang dipilih menggunakan OpenWeatherMap API. Aplikasi ini dibangun menggunakan Kotlin dan menampilkan berbagai informasi cuaca seperti suhu, kelembaban, tekanan udara, dan lainnya.
+
+
+# User Interface
+1. <img width="200" alt="Screenshot 2024-10-24 at 13 36 41" src="https://github.com/user-attachments/assets/e1afa5f4-1f04-4d2e-a025-5c5b1b310e09">
+
+2. <img width="200" alt="Screenshot 2024-10-24 at 13 37 03" src="https://github.com/user-attachments/assets/cb8d72f3-c076-4230-8797-b7e3ee866dba">
+
+
+
 
 ## Fitur
 
@@ -97,13 +108,13 @@ Parameter yang digunakan:
 ## Unified Modeling Language
 
 1. Activity Diagram
-<img width="384" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/fa4772d5-f7c5-4d78-bff3-aee7549e99b1">
+<img width="200" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/fa4772d5-f7c5-4d78-bff3-aee7549e99b1">
 
 2. State Diagram
-<img width="290" alt="STATE DIAGRAM" src="https://github.com/user-attachments/assets/31b235d1-cc22-4c25-b931-7fb4fbd5562e">
+<img width="2200" alt="STATE DIAGRAM" src="https://github.com/user-attachments/assets/31b235d1-cc22-4c25-b931-7fb4fbd5562e">
 
 3. Sequence Diagram
-<img width="334" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/18ff2059-732b-4fde-b485-246a8494982f">
+<img width="200" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/18ff2059-732b-4fde-b485-246a8494982f">
 
 4. Use Case Diagram
 <img width="530" alt="<img width="530" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/0ac1713e-6aa9-4061-a578-f517b5328f42">
