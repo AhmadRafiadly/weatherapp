@@ -121,7 +121,7 @@ Parameter yang digunakan:
 <img width="200" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/18ff2059-732b-4fde-b485-246a8494982f">
 
 4. Use Case Diagram
-<img width="530" alt="<img width="530" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/0ac1713e-6aa9-4061-a578-f517b5328f42">
+<img width="530" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/0ac1713e-6aa9-4061-a578-f517b5328f42">
 
 
 ## Acknowledgments
