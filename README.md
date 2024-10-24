@@ -4,7 +4,7 @@
 2. Amir winanda - 11220910000052
 3. Ahmad Rafiadly Arliansyah - 1120910000054
 
-Project Link: [https://github.com/GaniCapah/WeatherApp](https://github.com/Ganicapah/WeatherApp)
+Project Link: [https://github.com/AhmadRafiadly/weatherapp](https://github.com/AhmadRafiadly/weatherapp)
 
 
 
